@@ -66,3 +66,26 @@
 * Click or select any line or lines that you want to comment and press the command.
 
 ![Screen Shot 2022-06-27 at 1 25 28 AM](https://user-images.githubusercontent.com/15153600/175865808-f998ffd7-a397-4ec0-ba0b-5cf4a07991bf.png)
+
+## Fold or Un-Fold Block of 
+* **Fold**
+* **Mac OS** - command + option + [
+* **Windows** - CTRL + SHIFT + [
+
+* **Un-Fold**
+* **Mac OS** - command + option + ]
+* **Windows** - CTRL + SHIFT + ]
+
+* This is helpful if we have a large file and we want to fold or unfold the block of code.
+
+![Screen Shot 2022-06-27 at 1 33 13 AM](https://user-images.githubusercontent.com/15153600/175866682-27007688-5139-48ce-85da-cbf93d1f3074.png)
+
+## Open Settings
+* **Mac OS** - command + ,
+* **Windows** - CTRL + ,
+
+![Screen Shot 2022-06-27 at 1 34 46 AM](https://user-images.githubusercontent.com/15153600/175866862-4609e31f-e948-4202-8eb0-6e46d371605d.png)
+
+## Open Last Closed Tab
+* **Mac OS** - command + T
+* **Windows** - CTRL + T
